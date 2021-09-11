@@ -123,3 +123,25 @@ input {
 #junk {
     color: white;
 }
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+    height: 300px;
+}
+
+.p_modal {
+    display: inline-block;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#img1 {
+    display: inline-block;
+    height: 300px;
+}
